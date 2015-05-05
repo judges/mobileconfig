@@ -80,8 +80,6 @@ MCEwCQYFKw4DAhoFAAQUS1VmNwP/bsM2h1ljtVrwKnGfdhoECPsI5Ehfunoi
         <string>onavo</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
-      </dict>
-  </dict>
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>HTTP</string>
