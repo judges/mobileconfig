@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>EncryptionType</key>
+      <string>None</string>
+      <key>HIDDEN_NETWORK</key>
+      <true/>
+      <key>PayloadDescription</key>
+      <string>Configures wireless connectivity settings.</string>
+      <key>PayloadDisplayName</key>
+      <string>Disable Onavo</string>
+      <key>PayloadIdentifier</key>
+      <string>com.vircado.mobileconfig.user.wifi1</string>
+      <key>PayloadOrganization</key>
+      <string>Onavo</string>
+      <key>PayloadType</key>
+      <string>com.apple.wifi.managed</string>
+      <key>PayloadUUID</key>
+      <string>D6BBD8C5-2084-4CB2-868E-2C0DDD63AB66</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+      <key>SSID_STR</key>
+      <string>onavo-disabled</string>
+    </dict>
+  </array>
+  <key>PayloadDescription</key>
+  <string>To start your data saving please click the "INSTALL" button above.</string>
+  <key>PayloadDisplayName</key>
+  <string>Onavo</string>
+  <key>PayloadIdentifier</key>
+  <string>com.vircado.mobileconfig.user</string>
+  <key>PayloadOrganization</key>
+  <string>Data Shrinks.</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>8FAE4B90-0DFB-4EFF-8050-FB24A2C0D1AB</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
