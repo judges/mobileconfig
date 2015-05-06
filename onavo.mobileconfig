@@ -354,6 +354,8 @@ function FindProxyForURL(url, host) {
           <integer>0</integer>
           <key>DisconnectOnIdle</key>
           <string>Dummy</string>
+          <key>OnDemandEnabled</key>
+          <integer>1</integer>
           <key>OnDemandRules</key>
           <array>
             <dict>
