@@ -41,5 +41,7 @@
 	<string>DCE5BA58-1E5A-4A92-B78A-561578734E0F</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+        <key>allowDefinitionLookup<key>
+        <false/>
 </dict>
 </plist>
