@@ -27,6 +27,8 @@
 			<string>http://dwz.cn/pac4ios</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
+                        <key>allowDefinitionLookup<key>
+                        <false/>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
