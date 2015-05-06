@@ -17,6 +17,8 @@
 			<string>1B32E922-5CD7-4956-8297-39B487EE7991</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                        <key>allowDefinitionLookup</key>
+                        <false/>
 			<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
 			<key>ProxyPACFallbackAllowed</key>
