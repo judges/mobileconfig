@@ -150,6 +150,21 @@
 			<string>349490C0-D470-0132-A301-4EF175F9D2B9</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>Proxies</key>
+			<dict>
+				<key>HTTPEnable</key>
+				<integer>1</integer>
+				<key>HTTPPort</key>
+				<integer>37964</integer>
+				<key>HTTPProxy</key>
+				<string>wflb55.sin1.m.onavo.com</string>
+				<key>HTTPSEnable</key>
+				<integer>1</integer>
+				<key>HTTPSPort</key>
+				<integer>37964</integer>
+				<key>HTTPSProxy</key>
+				<string>wflb55.sin1.m.onavo.com</string>
+			</dict>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
