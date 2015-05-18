@@ -4,22 +4,6 @@
 <dict>
 	<key>PayloadContent</key>
 	<array>
-				<dict>
-					<key>DefaultsData</key>
-					<dict>
-						<key>apns</key>
-						<array>
-							<dict>
-								<key>apn</key>
-								<string>3GNET</string>
-								<key>proxyPort</key>
-								<integer>0</integer>
-							</dict>
-						</array>
-					</dict>
-					<key>DefaultsDomainName</key>
-					<string>com.apple.managedCarrier</string>
-				</dict>
 		<dict>
 			<key>IPSec</key>
 			<dict>
