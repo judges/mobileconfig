@@ -137,7 +137,7 @@
 	<key>PayloadDisplayName</key>
 	<string>myOnavo</string>
 	<key>PayloadIdentifier</key>
-	<string>com.vircado.mobileconfig.user</string>
+	<string>com.vircado.mobileconfig.user.me</string>
 	<key>PayloadOrganization</key>
 	<string>iap</string>
 	<key>PayloadRemovalDisallowed</key>
