@@ -30,7 +30,7 @@
 			<key>PayloadDescription</key>
 			<string>配置 VPN 设置（包括鉴定）。</string>
 			<key>PayloadDisplayName</key>
-			<string>VPN (myOnavo)</string>
+			<string>VPN (Onavo)</string>
 			<key>PayloadIdentifier</key>
 			<string>com.vircado.mobileconfig.user.8E54B618-1E62-4A75-8891-D0AA064C8778</string>
 			<key>PayloadOrganization</key>
@@ -57,7 +57,7 @@
 				<string>wflb55.sin1.m.onavo.com</string>
 			</dict>
 			<key>UserDefinedName</key>
-			<string>Onavo</string>
+			<string>myOnavo</string>
 			<key>VPNType</key>
 			<string>IPSec</string>
 		</dict>
@@ -137,7 +137,7 @@
 	<key>PayloadDisplayName</key>
 	<string>myOnavo</string>
 	<key>PayloadIdentifier</key>
-	<string>com.vircado.mobileconfig.user.me</string>
+	<string>com.vircado.mobileconfig.user</string>
 	<key>PayloadOrganization</key>
 	<string>iap</string>
 	<key>PayloadRemovalDisallowed</key>
