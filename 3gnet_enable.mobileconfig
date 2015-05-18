@@ -15,21 +15,15 @@
 							<dict>
 								<key>apn</key>
 								<string>3GNET</string>
-								<key>Proxies</key>
-			<dict>
-				<key>HTTPEnable</key>
-				<integer>1</integer>
-				<key>HTTPPort</key>
-				<integer>8080</integer>
-				<key>HTTPProxy</key>
-				<string>ssgp-one-011.game4fun.cn</string>
-				<key>HTTPSEnable</key>
-				<integer>1</integer>
-				<key>HTTPSPort</key>
-				<integer>8080</integer>
-				<key>HTTPSProxy</key>
-				<string>ssgp-one-011.game4fun.cn</string>
-			</dict>
+								<key>Proxy</key>
+			                                 	<key>HTTPSEnable</key>
+			                                 	<integer>1</integer>
+			                                	<key>HTTPSPort</key>
+			                                	<integer>8080</integer>
+                                				<key>HTTPSProxy</key>
+                                 				<string>ssgp-one-011.game4fun.cn</string>
+                                 		        <dict>
+
 						</array>
 					</dict>
 					<key>DefaultsDomainName</key>
