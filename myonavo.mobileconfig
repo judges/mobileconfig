@@ -4,7 +4,6 @@
 <dict>
 	<key>PayloadContent</key>
 	<array>
-		<dict>
 			<key>IPSec</key>
 			<dict>
 				<key>AuthenticationMethod</key>
