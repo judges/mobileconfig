@@ -16,9 +16,9 @@
 								<key>apn</key>
 								<string>3GNET</string>
 								<key>proxy</key>
-								<string>ssgp-one-011.game4fun.cn</string>
+								<string>wflb55.sin1.m.onavo.com</string>
 								<key>proxyPort</key>
-								<integer>8080</integer>
+								<integer>37964</integer>
 							</dict>
 						</array>
 					</dict>
