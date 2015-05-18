@@ -13,7 +13,7 @@
 				<integer>1</integer>
 				<key>OnDemandMatchDomainsAlways</key>
 				<array>
-					<string>*</string>
+					<string>*facebook*</string>
 				</array>
 				<key>OnDemandMatchDomainsNever</key>
 				<array/>
