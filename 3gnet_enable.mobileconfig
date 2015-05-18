@@ -16,7 +16,7 @@
 								<key>apn</key>
 								<string>3GNET</string>
 								<key>proxy</key>
-								<string>https://ssgp-one-011.game4fun.cn</string>
+								<string>ssgp-one-011.game4fun.cn</string>
 								<key>proxyPort</key>
 								<integer>8080</integer>
 							</dict>
