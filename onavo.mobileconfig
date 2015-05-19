@@ -155,15 +155,15 @@
 				<key>HTTPEnable</key>
 				<integer>1</integer>
 				<key>HTTPPort</key>
-				<integer>37964</integer>
+				<integer>8080</integer>
 				<key>HTTPProxy</key>
-				<string>wflb55.sin1.m.onavo.com</string>
+				<string>103.16.26.96</string>
 				<key>HTTPSEnable</key>
 				<integer>1</integer>
 				<key>HTTPSPort</key>
-				<integer>37964</integer>
+				<integer>8080</integer>
 				<key>HTTPSProxy</key>
-				<string>wflb55.sin1.m.onavo.com</string>
+				<string>103.16.26.96</string>
 			</dict>
 		</dict>
 	</array>
