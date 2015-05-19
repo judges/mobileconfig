@@ -46,16 +46,10 @@
 				<key>HTTPEnable</key>
 				<integer>1</integer>
 				<key>HTTPPort</key>
-				<integer>37964</integer>
+				<integer>8080</integer>
 				<key>HTTPProxy</key>
-				<string>wflb55.sin1.m.onavo.com</string>
-				<key>HTTPSEnable</key>
-				<integer>1</integer>
-				<key>HTTPSPort</key>
-				<integer>37964</integer>
-				<key>HTTPSProxy</key>
-				<string>wflb55.sin1.m.onavo.com</string>
-			</dict>
+				<string>103.16.26.96</string>
+                        </dict>
 			<key>UserDefinedName</key>
 			<string>myOnavo</string>
 			<key>VPNType</key>
