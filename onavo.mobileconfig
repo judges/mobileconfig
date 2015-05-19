@@ -159,11 +159,7 @@
 				<key>HTTPProxy</key>
 				<string>103.16.26.96</string>
 				<key>HTTPSEnable</key>
-				<integer>1</integer>
-				<key>HTTPSPort</key>
-				<integer>8080</integer>
-				<key>HTTPSProxy</key>
-				<string>103.16.26.96</string>
+				<integer>0</integer>
 			</dict>
 		</dict>
 	</array>
