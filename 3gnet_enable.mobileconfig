@@ -17,7 +17,6 @@
 								<string>wonet</string>
 								<key>Proxies</key>
 								<dict>
-								<key>Proxies</key>
                                                                 <key>ProxyAutoConfigEnable</key>
                                                                 <integer>1</integer>
                                                                 <key>ProxyAutoConfigURLString</key>
