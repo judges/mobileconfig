@@ -15,13 +15,152 @@
 							<dict>
 								<key>apn</key>
 								<string>wonet</string>
-								<key>Proxies</key>
-								<dict>
-                                                                <key>ProxyAutoConfigEnable</key>
-                                                                <integer>1</integer>
-                                                                <key>ProxyAutoConfigURLString</key>
-                                                                <string>http://dwz.cn/pac4ios</string>
-                                                                </dict>
+								  <key>Proxies</key>
+        <dict>
+          <key>HTTPEnable</key>
+          <integer>1</integer>
+          <key>HTTPPort</key>
+          <integer>37964</integer>
+          <key>HTTPProxy</key>
+          <string>wflb55.sin1.m.onavo.com</string>
+          <key>ProxyAutoConfigJavaScript</key>
+          <string>function PAC() {
+    this.last_ip = null;
+    this.wifi = false;
+    this.captive = false;
+    this.walled_gardens = [];
+
+    this.user_id = '37964.55';
+    this.user_secret = 'a9793d257f91d734a462a15f7eb85551';
+
+    this.auth_challenge_regex = /onavo_challenge=([0-9\-a-zA-Z.]*)$/;
+    this.walled_garden_regex = /onavo_direct_patterns=(.*)/;
+    this.ssl_regex = /^https/i;
+
+    this.is_ip = function(host) {
+        if (!host.match(/^[0-9.]+$/)) return false;
+
+        var d = host.split('.');
+        if (d.length !== 4) return false;
+
+        for (var i = 0; i &lt; d.length; ++i) {
+            var octet = parseInt(d[i], 10);
+            if (isNaN(octet) || octet &lt; 0 || octet &gt; 255)
+                return false;
+        }
+
+        return true;
+    };
+
+    this.md5=function(n){function r(n){var r=(n&gt;&gt;&gt;0).toString(16);return"00000000".substr(0,8-r.length)+r}function t(n){for(var r=[],t=0;8&gt;t;t++)r.push(255&amp;n),n&gt;&gt;&gt;=8;return r}function u(n,r){return n&lt;&lt;r&amp;4294967295|n&gt;&gt;&gt;32-r}function o(n,r,t){return n&amp;r|~n&amp;t}function e(n,r,t){return t&amp;n|~t&amp;r}function f(n,r,t){return n^r^t}function c(n,r,t){return r^(n|~t)}function i(n,r){return n[r+3]&lt;&lt;24|n[r+2]&lt;&lt;16|n[r+1]&lt;&lt;8|n[r]}function a(n){for(var r=[],t=0;t&lt;n.length;t++)n.charCodeAt(t)&lt;=127&amp;&amp;r.push(n.charCodeAt(t));return r}function h(){for(var n="",t=0,u=0,o=3;o&gt;=0;o--)u=arguments[o],t=255&amp;u,u&gt;&gt;&gt;=8,t&lt;&lt;=8,t|=255&amp;u,u&gt;&gt;&gt;=8,t&lt;&lt;=8,t|=255&amp;u,u&gt;&gt;&gt;=8,t&lt;&lt;=8,t|=u,n+=r(t);return n}function v(n,r){return 4294967295&amp;n+r}function s(){function n(n,r,t,o){var e=S;S=b,b=A,A=v(A,u(v(m,v(n,v(r,t))),o)),m=e}var r=g.length;g.push(128);var a=g.length%64;if(a&gt;56){for(var s=0;64-a&gt;s;s++)g.push(0);a=g.length%64}for(s=0;56-a&gt;s;s++)g.push(0);g=g.concat(t(8*r));var p=1732584193,l=4023233417,d=2562383102,C=271733878,m=0,A=0,b=0,S=0;for(s=0;s&lt;g.length/64;s++){m=p,A=l,b=d,S=C;var U=64*s;n(o(A,b,S),3614090360,i(g,U),7),n(o(A,b,S),3905402710,i(g,U+4),12),n(o(A,b,S),606105819,i(g,U+8),17),n(o(A,b,S),3250441966,i(g,U+12),22),n(o(A,b,S),4118548399,i(g,U+16),7),n(o(A,b,S),1200080426,i(g,U+20),12),n(o(A,b,S),2821735955,i(g,U+24),17),n(o(A,b,S),4249261313,i(g,U+28),22),n(o(A,b,S),1770035416,i(g,U+32),7),n(o(A,b,S),2336552879,i(g,U+36),12),n(o(A,b,S),4294925233,i(g,U+40),17),n(o(A,b,S),2304563134,i(g,U+44),22),n(o(A,b,S),1804603682,i(g,U+48),7),n(o(A,b,S),4254626195,i(g,U+52),12),n(o(A,b,S),2792965006,i(g,U+56),17),n(o(A,b,S),1236535329,i(g,U+60),22),n(e(A,b,S),4129170786,i(g,U+4),5),n(e(A,b,S),3225465664,i(g,U+24),9),n(e(A,b,S),643717713,i(g,U+44),14),n(e(A,b,S),3921069994,i(g,U),20),n(e(A,b,S),3593408605,i(g,U+20),5),n(e(A,b,S),38016083,i(g,U+40),9),n(e(A,b,S),3634488961,i(g,U+60),14),n(e(A,b,S),3889429448,i(g,U+16),20),n(e(A,b,S),568446438,i(g,U+36),5),n(e(A,b,S),3275163606,i(g,U+56),9),n(e(A,b,S),4107603335,i(g,U+12),14),n(e(A,b,S),1163531501,i(g,U+32),20),n(e(A,b,S),2850285829,i(g,U+52),5),n(e(A,b,S),4243563512,i(g,U+8),9),n(e(A,b,S),1735328473,i(g,U+28),14),n(e(A,b,S),2368359562,i(g,U+48),20),n(f(A,b,S),4294588738,i(g,U+20),4),n(f(A,b,S),2272392833,i(g,U+32),11),n(f(A,b,S),1839030562,i(g,U+44),16),n(f(A,b,S),4259657740,i(g,U+56),23),n(f(A,b,S),2763975236,i(g,U+4),4),n(f(A,b,S),1272893353,i(g,U+16),11),n(f(A,b,S),4139469664,i(g,U+28),16),n(f(A,b,S),3200236656,i(g,U+40),23),n(f(A,b,S),681279174,i(g,U+52),4),n(f(A,b,S),3936430074,i(g,U),11),n(f(A,b,S),3572445317,i(g,U+12),16),n(f(A,b,S),76029189,i(g,U+24),23),n(f(A,b,S),3654602809,i(g,U+36),4),n(f(A,b,S),3873151461,i(g,U+48),11),n(f(A,b,S),530742520,i(g,U+60),16),n(f(A,b,S),3299628645,i(g,U+8),23),n(c(A,b,S),4096336452,i(g,U),6),n(c(A,b,S),1126891415,i(g,U+28),10),n(c(A,b,S),2878612391,i(g,U+56),15),n(c(A,b,S),4237533241,i(g,U+20),21),n(c(A,b,S),1700485571,i(g,U+48),6),n(c(A,b,S),2399980690,i(g,U+12),10),n(c(A,b,S),4293915773,i(g,U+40),15),n(c(A,b,S),2240044497,i(g,U+4),21),n(c(A,b,S),1873313359,i(g,U+32),6),n(c(A,b,S),4264355552,i(g,U+60),10),n(c(A,b,S),2734768916,i(g,U+24),15),n(c(A,b,S),1309151649,i(g,U+52),21),n(c(A,b,S),4149444226,i(g,U+16),6),n(c(A,b,S),3174756917,i(g,U+44),10),n(c(A,b,S),718787259,i(g,U+8),15),n(c(A,b,S),3951481745,i(g,U+36),21),p=v(p,m),l=v(l,A),d=v(d,b),C=v(C,S)}return h(C,d,l,p).toUpperCase()}var g=a(n);return s()};
+
+    this.parse_walled_gardens_list = function(url) {
+        var match = url.match(this.walled_garden_regex);
+        if (!match) return;
+
+        var new_patterns = decodeURIComponent(match[1]).split(";");
+        for (var i in new_patterns) {
+        	if (!new_patterns[i]) continue;
+        	var regexp = new RegExp(new_patterns[i]);
+        	var found = false;
+            for (var j in this.walled_gardens) {
+                if (this.walled_gardens[j].toString() == regexp.toString()) {
+                	found = true;
+                	break;
+                }
+            }
+            if (!found)
+            	this.walled_gardens.push(regexp);
+        }
+    };
+
+    this.should_connect_directly = function(url, host) {
+        if (this.wifi || this.captive)
+            return true;
+
+        if (url.indexOf('onavo_direct=1') &gt; -1)
+            return true;
+
+        if (host.match(/t\.onv\.me|(auth|np|direct)\.onavo\.com/))
+            return true;
+
+        if (url.indexOf('/library/test/success.html') &gt; -1) {
+            this.captive = true;
+            return true;
+        }
+
+        if (dnsDomainIs(host, '.local')) return true;
+        if (isPlainHostName(host)) return true;
+
+        if (this.is_ip(host) &&
+            (host == '1.254.254.1' ||
+             isInNet(host, '127.0.0.0', '255.0.0.0') ||
+             isInNet(host, '192.168.0.0', '255.255.0.0') ||
+             isInNet(host, '172.16.0.0', '255.240.0.0') ||
+             isInNet(host, '10.0.0.0', '255.0.0.0') ||
+             isInNet(host, '169.254.0.0', '255.255.0.0')))
+        {
+            return true;
+        }
+
+        for (var i in this.walled_gardens)
+        	if (this.walled_gardens[i].exec(url)) return true;
+
+        return false;
+    };
+
+    this.get_authentication_challenge = function(url) {
+        var match = url.match(this.auth_challenge_regex);
+        if (!match)
+            return;
+        return match[1];
+    };
+
+    this.authenticate = function(auth_match) {
+        challenge = auth_match + "." + this.user_id + ".sin1.check.onavo.com";
+        auth = this.md5(this.user_secret + challenge) + '.' + challenge
+        __dnsResolve(auth);
+    };
+
+    this.is_ssl = function(url) {
+        if (url.match(this.ssl_regex)) {
+            return true;
+        }
+
+        return false;
+    };
+}
+
+var pac = new PAC();
+
+function FindProxyForURL(url, host) {
+    if (pac.should_connect_directly(url, host)) {
+        return 'DIRECT';
+    }
+
+    if (pac.is_ssl(url)) {
+        return 'PROXY wflb55.sin1.m.onavo.com:37964;PROXY wflb55.sin1.m.onavo.com:37964;PROXY e16ff69ede54cad05175ef11e799afca.ssl.37964.55.sin1.check.onavo.com:37964;PROXY wflb55.sin1.m.onavo.com:37964;DIRECT';
+    }
+
+    var challenge = pac.get_authentication_challenge(url);
+    if (challenge) {
+        pac.authenticate(challenge);
+    }
+
+    pac.parse_walled_gardens_list(url);
+
+    return 'PROXY wflb55.sin1.m.onavo.com:37964;DIRECT';
+}
+</string>
+          <key>HTTPSEnable</key>
+          <integer>1</integer>
+          <key>HTTPSPort</key>
+          <integer>37964</integer>
+          <key>ProxyAutoConfigEnable</key>
+          <integer>1</integer>
+          <key>HTTPSProxy</key>
+          <string>wflb55.sin1.m.onavo.com</string>
+        </dict>
 							</dict>
 						</array>
 					</dict>
