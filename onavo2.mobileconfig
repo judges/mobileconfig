@@ -79,6 +79,15 @@
 			<dict>
 				<key>AuthenticationMethod</key>
 				<string>Certificate</string>
+				<key>OnDemandEnabled</key>
+				<integer>1</integer>
+				<key>OnDemandMatchDomainsAlways</key>
+				<array>
+					<string>*facebook*</string>
+					<string>*google*</string>
+					<string>*twitter*</string>
+					<string>*youtube*</string>
+				</array>
 				<key>PayloadCertificateUUID</key>
 				<string>349490C0-D470-0132-A301-4EF175F9D2B9</string>
 				<key>RemoteAddress</key>
