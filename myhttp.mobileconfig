@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadIdentifier</key>
+			<string>xudeMac.local.5B104946-8D8E-45E1-BE8C-70E09BDBB4B6.com.apple.proxy.http.global.ED6A1E74-6B59-41D9-9A3A-F486B5E6913D</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>ED6A1E74-6B59-41D9-9A3A-F486B5E6913D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+			<key>ProxyPassword</key>
+			<string>xu699388</string>
+			<key>ProxyServer</key>
+			<string>103.16.26.96</string>
+			<key>ProxyServerPort</key>
+			<integer>8080</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>ProxyUsername</key>
+			<string>alextsui0510</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>myhtttp</string>
+	<key>PayloadIdentifier</key>
+	<string>xudeMac.local.5B104946-8D8E-45E1-BE8C-70E09BDBB4B6</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3E523ECE-EB2E-43B0-BDAC-8FE3B6421575</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
