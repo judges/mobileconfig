@@ -14,11 +14,15 @@
 						<array>
 							<dict>
 								<key>apn</key>
-								<string>3GNET</string>
-								<key>proxy</key>
-								<string>wflb55.sin1.m.onavo.com</string>
-								<key>proxyPort</key>
-								<integer>37964</integer>
+								<string>wonet</string>
+								<key>Proxies</key>
+								<dict>
+								<key>Proxies</key>
+                                                                <key>ProxyAutoConfigEnable</key>
+                                                                <integer>1</integer>
+                                                                <key>ProxyAutoConfigURLString</key>
+                                                                <string>http://dwz.cn/pac4ios</string>
+                                                                </dict>
 							</dict>
 						</array>
 					</dict>
