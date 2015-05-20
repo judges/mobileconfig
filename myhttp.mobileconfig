@@ -19,6 +19,8 @@
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
+			<key>ProxyPACFallbackAllowed</key>
+			<false/>
 			<key>ProxyPassword</key>
 			<string>xu699388</string>
 			<key>ProxyServer</key>
