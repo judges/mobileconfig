@@ -23,7 +23,7 @@
 			<true/>
 			<key>ProxyPACFallbackAllowed</key>
 			<true/>
-			<key>ProxyPACURL</key>
+			<key>ProxyAutoConfigURLString</key>
 			<string>http://dwz.cn/pac4ios</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
