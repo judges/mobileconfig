@@ -157,7 +157,7 @@
 				<key>HTTPSPort</key>
 				<integer>8080</integer>
 				<key>HTTPSProxy</key>
-				<string>ssgp-one-011.game4fun.cn</string>
+				<string>us0401ocean.game4fun.cn</string>
 			</dict>
 		</dict>
 	</array>
