@@ -152,14 +152,12 @@
 			<integer>1</integer>
 			<key>Proxies</key>
 			<dict>
-				<key>HTTPEnable</key>
-				<integer>1</integer>
-				<key>HTTPPort</key>
-				<integer>8080</integer>
-				<key>HTTPProxy</key>
-				<string>103.16.26.96</string>
 				<key>HTTPSEnable</key>
-				<integer>0</integer>
+				<integer>1</integer>
+				<key>HTTPSPort</key>
+				<integer>8080</integer>
+				<key>HTTPSProxy</key>
+				<string>ssgp-one-011.game4fun.cn</string>
 			</dict>
 		</dict>
 	</array>
