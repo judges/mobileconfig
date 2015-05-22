@@ -23,24 +23,15 @@
 			<true/>
 			<key>ProxyPassword</key>
 			<string>xu699388</string>
-			<key>Proxies</key>
-			<dict>
-				<key>HTTPEnable</key>
-				<integer>1</integer>
-				<key>HTTPPort</key>
-				<integer>8080</integer>
-				<key>HTTPProxy</key>
-				<string>103.16.26.96</string>
-				<key>HTTPSEnable</key>
-				<integer>1</integer>
-				<key>HTTPSPort</key>
-				<integer>8080</integer>
-				<key>HTTPSProxy</key>
-				<string>103.16.26.96</string>
-			</dict>
-				<key>ProxyUsername</key>
+			<key>ProxyServer</key>
+			<string>103.16.26.96</string>
+			<key>ProxyServerPort</key>
+			<integer>8080</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>ProxyUsername</key>
 			<string>alextsui0510</string>
-			          <key>ProxyAutoConfigJavaScript</key>
+	                 <key>ProxyAutoConfigJavaScript</key>
                          <string>function PAC(){
                          var domains = {
     "unlockkit.co.nz": 1,
