@@ -31,23 +31,6 @@
 			<string>Manual</string>
 			<key>ProxyUsername</key>
 			<string>alextsui0510</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>Proxies</key>
-			<dict>
-				<key>HTTPEnable</key>
-				<integer>1</integer>
-				<key>HTTPPort</key>
-				<integer>80</integer>
-				<key>HTTPProxy</key>
-				<string>alexdns80.123nat.com</string>
-				<key>HTTPSEnable</key>
-				<integer>1</integer>
-				<key>HTTPSPort</key>
-				<integer>443</integer>
-				<key>HTTPSProxy</key>
-				<string>alexdns80.123nat.com</string>
-			</dict>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
