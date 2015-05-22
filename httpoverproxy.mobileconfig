@@ -30,13 +30,13 @@
 				<key>HTTPPort</key>
 				<integer>8080</integer>
 				<key>HTTPProxy</key>
-				<string>alexdns1.123nat.com</string>
+				<string>103.16.26.96</string>
 				<key>HTTPSEnable</key>
 				<integer>1</integer>
 				<key>HTTPSPort</key>
 				<integer>8080</integer>
 				<key>HTTPSProxy</key>
-				<string>alexdns1.123nat.com</string>
+				<string>103.16.26.96</string>
 			</dict>
 				<key>ProxyUsername</key>
 			<string>alextsui0510</string>
