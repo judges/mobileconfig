@@ -108,29 +108,18 @@
 			<string>2C47447B-AE9E-4C2F-B4AE-FD29199F3552</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
 			<key>ProxyPassword</key>
 			<string>xu699388</string>
-			<key>Proxies</key>
-			<dict>
-				<key>HTTPEnable</key>
-				<integer>1</integer>
-				<key>HTTPPort</key>
-				<integer>8080</integer>
-				<key>HTTPProxy</key>
-				<string>103.16.26.96</string>
-				<key>HTTPSEnable</key>
-				<integer>1</integer>
-				<key>HTTPSPort</key>
-				<integer>8080</integer>
-				<key>HTTPSProxy</key>
-				<string>103.16.26.96</string>
-			</dict>
+			<key>ProxyServer</key>
+			<string>103.16.26.96</string>
+			<key>ProxyServerPort</key>
+			<integer>8080</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>ProxyUsername</key>
 			<string>alextsui0510</string>
-			<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
 		</dict>
 		<dict>
 			<key>PayloadCertificateFileName</key>
