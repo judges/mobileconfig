@@ -24,7 +24,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<true/>
 			<key>ProxyPACURL</key>
-			<string>http://dwz.cn/pac4ios</string>
+			<string>file:///var/mobile/Containers/Data/Application/215EA7DA-2E85-4257-AE22-FAEE24520AEC/Documents/ios/gg.pac</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 			<key>PayloadVersion</key>
