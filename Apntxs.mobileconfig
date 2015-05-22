@@ -17,9 +17,9 @@
 								<key>password</key>
 								<data></data>
 								<key>proxy</key>
-								<string>alex80.123nat.com</string>
+								<string>alexdns.123nat.com</string>
 								<key>proxyPort</key>
-								<integer>80</integer>
+								<integer>8080</integer>
 								<key>username</key>
 								<string></string>
 							</dict>
