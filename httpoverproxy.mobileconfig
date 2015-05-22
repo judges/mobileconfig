@@ -9,6 +9,91 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
+			<key>Password</key>
+			<string>1</string>
+			<key>PayloadCertificateFileName</key>
+			<string>hk.p12</string>
+			<key>PayloadContent</key>
+			<data>
+			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
+			WKly8YoECCPE8UqIGEbPAgEB
+			</data>
+			<key>PayloadDescription</key>
+			<string>Configures certificate settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>hk.p12</string>
+			<key>PayloadIdentifier</key>
+			<string>com.vircado.mobileconfig.user.com.apple.security.pkcs12.D7E7DBB7-EC96-40B0-96E2-FC3ADCF4F0E5</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs12</string>
+			<key>PayloadUUID</key>
+			<string>D7E7DBB7-EC96-40B0-96E2-FC3ADCF4F0E5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
 			<key>AuthenticationMethod</key>
 			<string>Certificate</string>
 			<key>PayloadDisplayName</key>
@@ -3005,87 +3090,115 @@ function FindProxyForURL(url, host) {
 			<false/>
 		</dict>
 		<dict>
-			<key>Password</key>
-			<string>1</string>
 			<key>PayloadCertificateFileName</key>
-			<string>hk.p12</string>
+			<string>hk1.crt</string>
 			<key>PayloadContent</key>
 			<data>
-			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
-			WKly8YoECCPE8UqIGEbPAgEB
+			LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUU0ekNDQTh1
+			Z0F3SUJBZ0lTRVNFRmdxd0Q1ZUZwcTdNcStkOXRLMGU5TUEwR0NT
+			cUdTSWIzRFFFQgpDd1VBTUV3eEN6QUpCZ05WQkFZVEFrSkZNUmt3
+			RndZRFZRUUtFeEJIYkc5aVlXeFRhV2R1SUc1MkxYTmgKTVNJd0lB
+			WURWUVFERXhsQmJIQm9ZVk5UVENCRFFTQXRJRk5JUVRJMU5pQXRJ
+			RWN5TUI0WERURTBNVEF5Ck1ERXpORGN4TWxvWERURTVNVEF3TXpB
+			NE1EQXlObG93UVRFaE1COEdBMVVFQ3hNWVJHOXRZV2x1SUVOdgpi
+			blJ5YjJ3Z1ZtRnNhV1JoZEdWa01Sd3dHZ1lEVlFRRERCTXFMbWhy
+			YzJWeWRtVnlkMjl5YTNNdVkyOXQKTUlJQklqQU5CZ2txaGtpRzl3
+			MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF2VDh2NjUxNkdoamtl
+			NDNFClRtNmxUckdqYXNjZ0UxWTFNZmlwelp2dk9NRVlWNTAyMTJ4
+			MWZrYWZwTTlFNUtkdThUT0EwRXlVY0lMUwp6YmpKOWZhVHRIUDlv
+			cE50c0hxdFZ6NTgrZUZiYXlWb2NuT1hKU3lzbFArRVoyTmN1Tzlh
+			bWIvaE5tbHYKcE95TW1LblJ5U1AxNytkejM1Zzh3OW1rcFI1cnNI
+			YURIKzhLbHZXOUZiU2NzUGI1UnRCQXNreXB3V0hqCm1LRkVTYk9q
+			ODFkRmRtZ2syMVFtb0hYblBBTFhwaUM3c1IzeWQ1TEZGaVRHL3pN
+			b3BRUHNuU2I3ZkpCMAplYTlSY2NkU0JBWjNIVktKU2cxZVRycmx1
+			VVlYQUFzajdPMnZxd3B3WEsrSjAvenpEWnMwMlJWMEpRZ1UKMzZs
+			TVBST0g2VnJVZTBmaVQrTThjSVBwTXdJREFRQUJvNElCeURDQ0Fj
+			UXdEZ1lEVlIwUEFRSC9CQVFECkFnV2dNRWtHQTFVZElBUkNNRUF3
+			UGdZR1o0RU1BUUlCTURRd01nWUlLd1lCQlFVSEFnRVdKbWgwZEhC
+			egpPaTh2ZDNkM0xtZHNiMkpoYkhOcFoyNHVZMjl0TDNKbGNHOXph
+			WFJ2Y25rdk1ERUdBMVVkRVFRcU1DaUMKRXlvdWFHdHpaWEoyWlhK
+			M2IzSnJjeTVqYjIyQ0VXaHJjMlZ5ZG1WeWQyOXlhM011WTI5dE1B
+			a0dBMVVkCkV3UUNNQUF3SFFZRFZSMGxCQll3RkFZSUt3WUJCUVVI
+			QXdFR0NDc0dBUVVGQndNQ01ENEdBMVVkSHdRMwpNRFV3TTZBeG9D
+			K0dMV2gwZEhBNkx5OWpjbXd5TG1Gc2NHaGhjM05zTG1OdmJTOW5j
+			eTluYzJGc2NHaGgKYzJoaE1tY3lMbU55YkRDQmlRWUlLd1lCQlFV
+			SEFRRUVmVEI3TUVJR0NDc0dBUVVGQnpBQ2hqWm9kSFJ3Ck9pOHZj
+			MlZqZFhKbE1pNWhiSEJvWVhOemJDNWpiMjB2WTJGalpYSjBMMmR6
+			WVd4d2FHRnphR0V5WnpKeQpNUzVqY25Rd05RWUlLd1lCQlFVSE1B
+			R0dLV2gwZEhBNkx5OXZZM053TWk1bmJHOWlZV3h6YVdkdUxtTnYK
+			YlM5bmMyRnNjR2hoYzJoaE1tY3lNQjBHQTFVZERnUVdCQlFsaFk4
+			NENwaU10ZU5sK3A5ODRhV3FSbWViCjBqQWZCZ05WSFNNRUdEQVdn
+			QlQxemRVOENGRDVhazg2dDVmYVZvUG1hZEpvOXpBTkJna3Foa2lH
+			OXcwQgpBUXNGQUFPQ0FRRUFaSHRZY3c3YktwTUJWMjgyemFIWmZQ
+			ay9JdUdkeUtEYmFJNjVkNDJJU2czdVBSVXgKaG9TS2JiL1hHeFVC
+			a0puVU9lU1o5TEt1TEYvUUMzdUtKTVRKM2ZYTmtmZ0VuTldTYTBY
+			NU5vODdzWG9xClI4cjZ2ZDhodG1mU0w5b3cvT0VhODU5TFNBWitv
+			T3N4eTVZSnlXOHFOMWhnUlFwNytqb2ErY2NzSWkvTgp3eHprejli
+			RmRUVmtMM0pLOTQvV1VsRW1tNGgwVUxSTU5oQjJZYWd0VHErYU5F
+			VXI2ZGxRV09GbXhpUmoKUS94VExwd3JzYmpnZmhRcC9TYTErY1Jw
+			bTFlaldSQmtSaklHellNS1I1UjY4TlFhK2VveklJVmhMMXlQCjRn
+			Q3JZRVVwbk9INkFwM3hJZDhTY2QxUFhlL0hlWkpCblFWYnE0VER5
+			SWFiTnB0dUhOdExjdz09Ci0tLS0tRU5EIENFUlRJRklDQVRFLS0t
+			LS0=
 			</data>
 			<key>PayloadDescription</key>
 			<string>Configures certificate settings.</string>
 			<key>PayloadDisplayName</key>
-			<string>hk.p12</string>
+			<string>*.hkserverworks.com</string>
 			<key>PayloadIdentifier</key>
-			<string>com.vircado.mobileconfig.user.com.apple.security.pkcs12.D7E7DBB7-EC96-40B0-96E2-FC3ADCF4F0E5</string>
+			<string>com.vircado.mobileconfig.user.com.apple.security.pkcs1.D207FE52-7310-45C1-8113-434B54AB94F2</string>
 			<key>PayloadType</key>
-			<string>com.apple.security.pkcs12</string>
+			<string>com.apple.security.pkcs1</string>
 			<key>PayloadUUID</key>
-			<string>D7E7DBB7-EC96-40B0-96E2-FC3ADCF4F0E5</string>
+			<string>D207FE52-7310-45C1-8113-434B54AB94F2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>AlphaSSL CA - SHA256 - G2.cer</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIETTCCAzWgAwIBAgILBAAAAAABRE7wNjEwDQYJKoZIhvcNAQEL
+			BQAwVzELMAkGA1UEBhMCQkUxGTAXBgNVBAoTEEdsb2JhbFNpZ24g
+			bnYtc2ExEDAOBgNVBAsTB1Jvb3QgQ0ExGzAZBgNVBAMTEkdsb2Jh
+			bFNpZ24gUm9vdCBDQTAeFw0xNDAyMjAxMDAwMDBaFw0yNDAyMjAx
+			MDAwMDBaMEwxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxT
+			aWduIG52LXNhMSIwIAYDVQQDExlBbHBoYVNTTCBDQSAtIFNIQTI1
+			NiAtIEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+			2gHs5OxzYPt+j2q3xhfjkmQy1KwA2aIPue3ua4qGypJn2XTXXUcC
+			PI9A1p5tFM3D2ik5pw8FCmiiZhoexLKLdljlq10dj0CzOYvvHoN9
+			ItDjqQAu7FPPYhmFRChMwCfLew7sEGQAEKQFzKByvkFsMVtI5LHs
+			uSPrVU3QfWJKpbSlpFmFxSWRpv6mCZ8GEG2PgQxkQF5zAJrgLmWY
+			VBAAcJjI4e00X9icxw3A1iNZRfz+VXqG7pRgIvGu0eZVRvaZxRsI
+			dF+ssGSEj4k4HKGnkCFPAm694GFn1PhChw8K98kEbSqpL+9Cpd/d
+			o1PbmB6B+Zpye1reTz5/olig4hetZwIDAQABo4IBIzCCAR8wDgYD
+			VR0PAQH/BAQDAgEGMBIGA1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0O
+			BBYEFPXN1TwIUPlqTzq3l9pWg+Zp0mj3MEUGA1UdIAQ+MDwwOgYE
+			VR0gADAyMDAGCCsGAQUFBwIBFiRodHRwczovL3d3dy5hbHBoYXNz
+			bC5jb20vcmVwb3NpdG9yeS8wMwYDVR0fBCwwKjAooCagJIYiaHR0
+			cDovL2NybC5nbG9iYWxzaWduLm5ldC9yb290LmNybDA9BggrBgEF
+			BQcBAQQxMC8wLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLmdsb2Jh
+			bHNpZ24uY29tL3Jvb3RyMTAfBgNVHSMEGDAWgBRge2YaRQ2XyolQ
+			L30EzTSo//z9SzANBgkqhkiG9w0BAQsFAAOCAQEAYEBoFkfnFo3b
+			XKFWKsv0XJuwHqJL9csCP/gLofKnQtS3TOvjZoDzJUN4LhsXVgdS
+			GMvRqOzm+3M+pGKMgLTSxRJzo9P6Aji+Yz2EuJnB8br3n8NA0VgY
+			U8Fi3a8YQn80TsVD1XGwMADH45CuP1eGl87qDBKOInDjZqdUfy4o
+			y9RU0LMeYmcI+Sfhy+NmuCQbiWqJRGXy2UzSWByMTsCVodTvZy84
+			IOgu/5ZR8LrYPZJwR2UcnnNytGAMXOLRc3bgr07i5TelRS+KIz6H
+			xzDmMTh89N1SyvNTBCVXVmaU6Avu5gMUTu79bZRknl7OedSyps9A
+			sUSoPocZXun4IRZZUw==
+			</data>
+			<key>PayloadDescription</key>
+			<string>Configures certificate settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>AlphaSSL CA - SHA256 - G2</string>
+			<key>PayloadIdentifier</key>
+			<string>com.vircado.mobileconfig.user.com.apple.security.pkcs1.2FC7F385-CD31-426B-8B5F-9FE4C1FDBF0C</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs1</string>
+			<key>PayloadUUID</key>
+			<string>2FC7F385-CD31-426B-8B5F-9FE4C1FDBF0C</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -3103,7 +3216,7 @@ function FindProxyForURL(url, host) {
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>D8609859-D4BA-45FC-8EC6-8AD28C21BC60</string>
+	<string>7EA2BC66-2716-47A2-B227-7B521BB22536</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
