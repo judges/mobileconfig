@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.ALEXTSUI.local.a7a0f020-bb50-0132-5946-60f84738750a.alacarte.com.apple.proxy.http.global.1B32E922-5CD7-4956-8297-39B487EE7991</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>1B32E922-5CD7-4956-8297-39B487EE7991</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+                        <key>allowDefinitionLookup</key>
+                        <false/>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+			<key>ProxyPACFallbackAllowed</key>
+			<true/>
+			<key>ProxyPACURL</key>
+			<string>http://dwz.cn/pac4ios</string>
+			<key>ProxyType</key>
+			<string>Auto</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Proxies</key>
+			<dict>
+				<key>HTTPEnable</key>
+				<integer>1</integer>
+				<key>HTTPPort</key>
+				<integer>80</integer>
+				<key>HTTPProxy</key>
+				<string>alexdns80.123nat.com</string>
+				<key>HTTPSEnable</key>
+				<integer>1</integer>
+				<key>HTTPSPort</key>
+				<integer>443</integer>
+				<key>HTTPSProxy</key>
+				<string>alexdns80.123nat.com</string>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>http over proxy</string>
+	<key>PayloadDisplayName</key>
+	<string>Onavo</string>
+	<key>PayloadIdentifier</key>
+	<string>com.vircado.mobileconfig.user</string>
+	<key>PayloadOrganization</key>
+	<string>iap</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>72C19E28-6EEA-4A97-A1C8-CE366FD47F1B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
