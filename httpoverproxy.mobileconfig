@@ -2,27 +2,27 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Password</key>
+	<string>1</string>
+	<key>PayloadCertificateFileName</key>
+	<string>hk.p12</string>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
+			<key>AuthenticationMethod</key>
+			<string>Certificate</string>
 			<key>PayloadDisplayName</key>
 			<string>Global HTTP Proxy</string>
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.mdm.ALEXTSUI.local.a7a0f020-bb50-0132-5946-60f84738750a.alacarte.com.apple.proxy.http.global.1B32E922-5CD7-4956-8297-39B487EE7991</string>
+			<string>com.vircado.mobileconfig.user.com.apple.proxy.http.global.2C47447B-AE9E-4C2F-B4AE-FD29199F3552</string>
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
-			<string>1B32E922-5CD7-4956-8297-39B487EE7991</string>
+			<string>2C47447B-AE9E-4C2F-B4AE-FD29199F3552</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-                        <key>allowDefinitionLookup</key>
-                        <false/>
-			<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-			<key>ProxyPassword</key>
-			<string>xu699388</string>
 			<key>Proxies</key>
 			<dict>
 				<key>HTTPEnable</key>
@@ -38,10 +38,8 @@
 				<key>HTTPSProxy</key>
 				<string>103.16.26.96</string>
 			</dict>
-				<key>ProxyUsername</key>
-			<string>alextsui0510</string>
-			          <key>ProxyAutoConfigJavaScript</key>
-                         <string>function PAC(){
+			<key>ProxyAutoConfigJavaScript</key>
+			<string>function PAC(){
                          var domains = {
     "unlockkit.co.nz": 1,
     "4shared.com": 1,
@@ -2997,16 +2995,105 @@ function FindProxyForURL(url, host) {
         host = host.slice(lastPos);
 
     }
-    while (lastPos >= 1);
+    while (lastPos &gt;= 1);
     return false;
 }
 }</string>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+			<key>allowDefinitionLookup</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Password</key>
+			<string>1</string>
+			<key>PayloadCertificateFileName</key>
+			<string>hk.p12</string>
+			<key>PayloadContent</key>
+			<data>
+			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
+			WKly8YoECCPE8UqIGEbPAgEB
+			</data>
+			<key>PayloadDescription</key>
+			<string>Configures certificate settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>hk.p12</string>
+			<key>PayloadIdentifier</key>
+			<string>com.vircado.mobileconfig.user.com.apple.security.pkcs12.D7E7DBB7-EC96-40B0-96E2-FC3ADCF4F0E5</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs12</string>
+			<key>PayloadUUID</key>
+			<string>D7E7DBB7-EC96-40B0-96E2-FC3ADCF4F0E5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>http over proxy</string>
 	<key>PayloadDisplayName</key>
-	<string>Onavo</string>
+	<string>hhtpoverpac</string>
 	<key>PayloadIdentifier</key>
 	<string>com.vircado.mobileconfig.user</string>
 	<key>PayloadOrganization</key>
@@ -3016,7 +3103,7 @@ function FindProxyForURL(url, host) {
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>72C19E28-6EEA-4A97-A1C8-CE366FD47F1B</string>
+	<string>D8609859-D4BA-45FC-8EC6-8AD28C21BC60</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
