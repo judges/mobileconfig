@@ -21,12 +21,16 @@
                         <false/>
 			<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
-			<key>ProxyPACFallbackAllowed</key>
-			<true/>
-			<key>ProxyPACURL</key>
-			<string>file:///var/mobile/Containers/Data/Application/215EA7DA-2E85-4257-AE22-FAEE24520AEC/Documents/ios/gg.pac</string>
+								<key>password</key>
+								<data>xu699388</data>
+								<key>proxy</key>
+								<string>103.16.26.96</string>
+								<key>proxyPort</key>
+								<integer>8080</integer>
+								<key>username</key>
+								<string>alextsui0510</string>
 			<key>ProxyType</key>
-			<string>Auto</string>
+			<string>mannual</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Proxies</key>
