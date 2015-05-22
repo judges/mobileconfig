@@ -2,11 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Password</key>
-	<string>1</string>
-	<key>PayloadCertificateFileName</key>
-	<string>hk.p12</string>
-	<key>PayloadContent</key>
 	<array>
 		<dict>
 			<key>Password</key>
