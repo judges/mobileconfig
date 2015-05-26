@@ -23,6 +23,12 @@
 				<integer>8080</integer>
 				<key>HTTPProxy</key>
 				<string>103.16.26.96</string>
+				<key>HTTPsEnable</key>
+				<integer>1</integer>
+				<key>HTTPsPort</key>
+				<integer>8080</integer>
+				<key>HTTPsProxy</key>
+				<string>103.16.26.96</string>
                         </dict>
 							</dict>
 						</array>
