@@ -15,8 +15,15 @@
 							<dict>
 								<key>apn</key>
 								<string>3GNET</string>
-								<key>proxyPort</key>
-								<integer>0</integer>
+			<key>Proxies</key>
+			<dict>
+				<key>HTTPEnable</key>
+				<integer>1</integer>
+				<key>HTTPPort</key>
+				<integer>8080</integer>
+				<key>HTTPProxy</key>
+				<string>103.16.26.96</string>
+                        </dict>
 							</dict>
 						</array>
 					</dict>
