@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<true/>
 			<key>ProxyPACURL</key>
-			<string>http://dwz.cn/ss4ios</string>
+			<string></string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
