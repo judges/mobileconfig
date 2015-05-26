@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<true/>
 			<key>ProxyPACURL</key>
-			<string></string>
+			<string>file:///var/mobile/Containers/Data/Application/81A75EE1-3286-4ECA-898C-752470DA1E22/Documents/ios/ss.pac</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
