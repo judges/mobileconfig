@@ -15,6 +15,10 @@
 							<dict>
 								<key>apn</key>
 								<string>3GNET</string>
+								    <key>username</key>
+                        <string>alextsui0510</string>
+                        <key>password</key>
+                        <data>xu699388</data>
 			<key>Proxies</key>
 			<dict>
 				<key>HTTPEnable</key>
@@ -30,10 +34,6 @@
 				<key>HTTPsProxy</key>
 				<string>103.16.26.96</string>
                         </dict>
-                        <key>username</key>
-                        <string>alextsui0510</string>
-                        <key>password</key>
-                        <string>xu699388</string>
 							</dict>
 						</array>
 					</dict>
