@@ -14,7 +14,7 @@
                             <array>
                                 <dict>
                                     <key>apn</key>
-                                    <string>wonet</string>
+                                    <string>3gnet</string>
                                     <key>proxy</key>
                                     <string>alexaws.abc6.net</string>
                                     <key>proxyPort</key>
