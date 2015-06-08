@@ -14,11 +14,11 @@
                             <array>
                                 <dict>
                                     <key>apn</key>
-                                    <string>wonet</string>
+                                    <string>cmnet</string>
                                     <key>proxy</key>
-                                    <string>aws.alextsui0510.tk</string>
+                                    <string>awsfr.alextsui0510.tk</string>
                                     <key>proxyPort</key>
-                                    <integer>80</integer>
+                                    <integer>47776</integer>
                                 </dict>
                             </array>
                         </dict>
