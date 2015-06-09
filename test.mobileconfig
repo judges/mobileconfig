@@ -64,7 +64,11 @@
 <integer>1</integer>
 </dict>
 </dict>
-     <key>PayloadDescription</key>
+ <key>DefaultsDomainName</key>
+                        <string>com.apple.managedCarrier</string>
+                    </dict>
+                </array>
+                <key>PayloadDescription</key>
                 <string>Provides customization of carrier Access Point Name.</string>
                 <key>PayloadDisplayName</key>
                 <string>APN</string>
