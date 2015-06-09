@@ -45,7 +45,7 @@
         <key>PayloadDescription</key>
         <string>Change APN to 3gnet</string>
         <key>PayloadDisplayName</key>
-        <string>LexAPN</string>
+        <string>AlexAPN</string>
         <key>PayloadIdentifier</key>
         <string>com.lextang.APNMobileConfig</string>
         <key>PayloadOrganization</key>
