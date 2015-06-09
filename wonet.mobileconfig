@@ -10,28 +10,28 @@
                     <dict>
                         <key>DefaultsData</key>
                         <dict>
-                            <key>apns</key>
+                            <key>Proxies</key>
                             <array>
-<dict>
-<key>HTTPEnable</key>
-<integer>1</integer>
-<key>HTTPPort</key>
-<integer>80</integer>
-<key>HTTPProxy</key>
-<string>10.0.0.172</string>
-<key>HTTPProxyAuthenticated</key>
-<integer>0</integer>
-<key>HTTPProxyType</key>
-<integer>1</integer>
-<key>HTTPSEnable</key>
-<integer>1</integer>
-<key>HTTPSPort</key>
-<integer>80</integer>
-<key>HTTPSProxy</key>
-<string>10.0.0.172</string>
-<key>ProxyAutoConfigEnable</key>
-<integer>0</integer>
-  </dict>
+                           <dict>
+                       <key>HTTPEnable</key>
+                      <integer>1</integer>
+                       <key>HTTPPort</key>
+                      <integer>80</integer>
+                       <key>HTTPProxy</key>
+                      <string>10.0.0.172</string>
+                     <key>HTTPProxyAuthenticated</key>
+                     <integer>0</integer>
+                     <key>HTTPProxyType</key>
+                     <integer>1</integer>
+                    <key>HTTPSEnable</key>
+                     <integer>1</integer>
+                     <key>HTTPSPort</key>
+                     <integer>80</integer>
+                    <key>HTTPSProxy</key>
+                   <string>10.0.0.172</string>
+                 <key>ProxyAutoConfigEnable</key>
+                   <integer>0</integer>
+                           </dict>
                             </array>
                         </dict>
                         <key>DefaultsDomainName</key>
