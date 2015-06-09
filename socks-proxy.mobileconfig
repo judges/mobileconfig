@@ -28,7 +28,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>https</string>
+	<string>SOCKS-PROXY</string>
 	<key>PayloadIdentifier</key>
 	<string>xudeMac.local.EC68CCA1-805C-4716-AFD9-40B23EAF3357</string>
 	<key>PayloadRemovalDisallowed</key>
