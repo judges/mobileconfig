@@ -12,8 +12,6 @@
                         <dict>
                             <key>apns</key>
                             <array>
-                                <dict>
-                                  <key>Proxies</key>
 <dict>
 <key>HTTPEnable</key>
 <integer>1</integer>
@@ -33,7 +31,6 @@
 <string>10.0.0.172</string>
 <key>ProxyAutoConfigEnable</key>
 <integer>0</integer>
-</dict>
   </dict>
                             </array>
                         </dict>
