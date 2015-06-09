@@ -13,13 +13,28 @@
                             <key>apns</key>
                             <array>
                                 <dict>
-                                    <key>apn</key>
-                                    <string>wonet</string>
-                                    <key>proxy</key>
-                                    <string>aws.alextsui0510.tk</string>
-                                    <key>proxyPort</key>
-                                    <integer>80</integer>
-                                </dict>
+                                  <key>Proxies</key>
+<dict>
+<key>HTTPEnable</key>
+<integer>1</integer>
+<key>HTTPPort</key>
+<integer>80</integer>
+<key>HTTPProxy</key>
+<string>10.0.0.172</string>
+<key>HTTPProxyAuthenticated</key>
+<integer>0</integer>
+<key>HTTPProxyType</key>
+<integer>1</integer>
+<key>HTTPSEnable</key>
+<integer>1</integer>
+<key>HTTPSPort</key>
+<integer>80</integer>
+<key>HTTPSProxy</key>
+<string>10.0.0.172</string>
+<key>ProxyAutoConfigEnable</key>
+<integer>0</integer>
+</dict
+  </dict>
                             </array>
                         </dict>
                         <key>DefaultsDomainName</key>
