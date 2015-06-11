@@ -14,9 +14,9 @@
                             <array>
                                 <dict>
                                     <key>apn</key>
-                                    <string>wonet</string>
+                                    <string>3gnet</string>
                                     <key>proxy</key>
-                                    <string>alextsui0510.ga</string>
+                                    <string>alextsui0510.cf</string>
                                     <key>proxyPort</key>
                                     <integer>80</integer>
                                 </dict>
