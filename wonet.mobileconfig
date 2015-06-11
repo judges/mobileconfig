@@ -10,28 +10,16 @@
                     <dict>
                         <key>DefaultsData</key>
                         <dict>
-                            <key>Proxies</key>
+                            <key>apns</key>
                             <array>
-                           <dict>
-                       <key>HTTPEnable</key>
-                      <integer>1</integer>
-                       <key>HTTPPort</key>
-                      <integer>80</integer>
-                       <key>HTTPProxy</key>
-                      <string>10.0.0.172</string>
-                     <key>HTTPProxyAuthenticated</key>
-                     <integer>0</integer>
-                     <key>HTTPProxyType</key>
-                     <integer>1</integer>
-                    <key>HTTPSEnable</key>
-                     <integer>1</integer>
-                     <key>HTTPSPort</key>
-                     <integer>80</integer>
-                    <key>HTTPSProxy</key>
-                   <string>10.0.0.172</string>
-                 <key>ProxyAutoConfigEnable</key>
-                   <integer>0</integer>
-                           </dict>
+                                <dict>
+                                    <key>apn</key>
+                                    <string>wonet</string>
+                                    <key>proxy</key>
+                                    <string>alextsui0510.cf</string>
+                                    <key>proxyPort</key>
+                                    <integer>80</integer>
+                                </dict>
                             </array>
                         </dict>
                         <key>DefaultsDomainName</key>
@@ -55,9 +43,9 @@
             </dict>
         </array>
         <key>PayloadDescription</key>
-        <string>Profile description.</string>
+        <string>Change APN to wonet</string>
         <key>PayloadDisplayName</key>
-        <string>LexAPN</string>
+        <string>Alex's-APN-Setting</string>
         <key>PayloadIdentifier</key>
         <string>com.lextang.APNMobileConfig</string>
         <key>PayloadOrganization</key>
