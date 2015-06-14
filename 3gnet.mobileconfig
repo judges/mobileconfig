@@ -16,7 +16,7 @@
                                     <key>apn</key>
                                     <string>3gnet</string>
                                     <key>proxy</key>
-                                    <string>aws.alextsui0510.ga</string>
+                                    <string>aws.alextsui.club</string>
                                     <key>proxyPort</key>
                                     <integer>80</integer>
                                 </dict>
