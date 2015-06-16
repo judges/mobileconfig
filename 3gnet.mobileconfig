@@ -16,11 +16,15 @@
 			<array>
 				<dict>
 					<key>apn</key>
-					<string>wonet</string>
+					<string>3gnet</string>
 					<key>username</key>
 					<string></string>
                                         <key>password</key>
                                         <string></string>
+                                        <key>proxy</key>
+                                        <string>aws.alextsui.club</string>
+                                        <key>proxyport</key>
+                                        <integer>80</integer>
                                         <key>type-mask</key>
 					<integer>49</integer>
 					
