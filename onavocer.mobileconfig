@@ -1,7 +1,13 @@
  <?xml version=1.0 encoding=UTF-8?>
 <!DOCTYPE plist PUBLIC -//Apple Computer//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
 <plist version=1.0>
-<dict>
+  <dict>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadDisplayName</key>
+    <string>Onavo</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -59,6 +65,15 @@ MCEwCQYFKw4DAhoFAAQUrwZ0aDzq9Jd63mfvx29MJ34oNUcECByBLXw+ZzKF
         <key>PayloadIdentifier</key>
         <string>com.vircado.mobileconfig.user.crt</string>
                                 </dict>
-                                </array>
-                                </dict>
-                                </plist>
+                              </array>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadDescription</key>
+    <string>Please install your Onavo profile to complete the process.</string>
+    <key>PayloadOrganization</key>
+    <string>Save mobile data</string>
+    <key>PayloadUUID</key>
+    <string>67D82A50-E152-0132-94D4-26780F888EAE</string>
+    <key>PayloadIdentifier</key>
+    <string>com.vircado.mobileconfig.user</string>
+  </dict>
