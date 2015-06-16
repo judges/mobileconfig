@@ -1,0 +1,55 @@
+      <dict>
+        <key>PayloadType</key>
+        <string>com.apple.security.pkcs12</string>
+        <key>PayloadDisplayName</key>
+        <string>Onavo VPN Client Certificate</string>
+        <key>PayloadContent</key>
+        <data>
+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
+</data>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadDescription</key>
+        <string>Provides device authentication (certificate or identity).</string>
+        <key>Password</key>
+        <string>onavo</string>
+        <key>PayloadOrganization</key>
+        <string>Onavo Inc.</string>
+        <key>PayloadCertificateFileName</key>
+        <string>Onavo VPN Client Certificate</string>
+        <key>PayloadUUID</key>
+        <string>67D685B0-E152-0132-94D4-26780F888EAE</string>
+        <key>PayloadIdentifier</key>
+        <string>com.vircado.mobileconfig.user.crt</string>
+                                </dict>
