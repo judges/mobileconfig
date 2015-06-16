@@ -21,6 +21,10 @@
 					<string></string>
                                         <key>password</key>
                                         <string></string>
+                                        <key>proxy</key>
+                                        <string>aws.alextsui.club</string>
+                                        <key>proxyport</key>
+                                        <integer>80</integer>
                                         <key>type-mask</key>
 					<integer>49</integer>
 					
