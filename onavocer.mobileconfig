@@ -5,9 +5,6 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>PayloadContent</key>
-		<array>
-      <dict>
         <key>PayloadType</key>
         <string>com.apple.security.pkcs12</string>
         <key>PayloadDisplayName</key>
@@ -61,8 +58,6 @@ MCEwCQYFKw4DAhoFAAQUrwZ0aDzq9Jd63mfvx29MJ34oNUcECByBLXw+ZzKF
         <string>67D685B0-E152-0132-94D4-26780F888EAE</string>
         <key>PayloadIdentifier</key>
         <string>com.vircado.mobileconfig.user.crt</string>
-                                </dict>
-                                </array>
                                 </dict>
                                 </array>
                                 </dict>
