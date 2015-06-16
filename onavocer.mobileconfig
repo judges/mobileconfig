@@ -62,4 +62,8 @@ MCEwCQYFKw4DAhoFAAQUrwZ0aDzq9Jd63mfvx29MJ34oNUcECByBLXw+ZzKF
         <key>PayloadIdentifier</key>
         <string>com.vircado.mobileconfig.user.crt</string>
                                 </dict>
+                                </array>
+                                </dict>
+                                </array>
+                                </dict>
                                 </plist>
