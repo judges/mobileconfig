@@ -21,6 +21,10 @@
 					<string></string>
                               <key>password</key>
                               <string></string>
+                              <key>proxy</key>
+                                    <string>211.149.209.11</string>
+                                    <key>proxyPort</key>
+                                    <integer>80</integer>
                              <key>type-mask</key>
 					<integer>55</integer>
 					
