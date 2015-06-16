@@ -24,7 +24,7 @@
                                         <key>proxy</key>
                                         <string>aws.alextsui.club</string>
                                         <key>proxyport</key>
-                                        <integer></integer>
+                                        <integer>1080</integer>
                                         <key>type-mask</key>
 					<integer>49</integer>
 					
