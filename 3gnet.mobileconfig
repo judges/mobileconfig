@@ -21,10 +21,6 @@
 					<string></string>
                                         <key>password</key>
                                         <string></string>
-                                        <key>proxy</key>
-                                        <string></string>
-                                        <key>proxyPort</key>
-                                        <integer>0</integer>
                                         <key>type-mask</key>
 					<integer>49</integer>
 					
