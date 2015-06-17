@@ -39,7 +39,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Advanced Settings</string>
 			 <key>PayloadIdentifier</key>
-                        <string>3gnet</string>
+                        <string>wonet</string>
                         <key>PayloadOrganization</key>
                         <string>From https://github.com/alextsui0510</string>
 			<key>PayloadType</key>
@@ -176,16 +176,16 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>http://dwz.cn/myapnchange</string>
+			<string>http://dwz.cn/myunlock</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Changes the APN to 3gnet</string>
+	<string>Changes the APN to wonet</string>
 	<key>PayloadDisplayName</key>
 	<string>APN Carrier Settings</string>
 	<key>PayloadIdentifier</key>
 
-	<string>3gnet</string>
+	<string>wonet</string>
 	<key>PayloadOrganization</key>
 	<string>From https://github.com/alextsui0510</string>
 	<key>PayloadType</key>
