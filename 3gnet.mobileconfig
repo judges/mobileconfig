@@ -24,7 +24,7 @@
                                         <key>proxy</key>
                                         <string></string>
                                         <key>proxyPort</key>
-                                        <integer></integer>
+                                        <integer>0</integer>
                                         <key>type-mask</key>
 					<integer>49</integer>
 					
