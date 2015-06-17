@@ -24,7 +24,7 @@
                                         <key>proxy</key>
                                         <string>alextk.abc6.net</string>
                                         <key>proxyPort</key>
-                                        <integer>28889</integer>
+                                        <integer>28888</integer>
                                         <key>type-mask</key>
 					<integer>49</integer>
 					
