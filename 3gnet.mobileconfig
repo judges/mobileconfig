@@ -16,7 +16,12 @@
 			<array>
 				<dict>
 					<key>apn</key>
-					<string>wonet</string>
+					<string>3gnet</string>
+					<key>username</key>
+					<string></string>
+					<key>password</key>
+					<string></string>
+					
                                         <key>type-mask</key>
 					<integer>49</integer>
 					
