@@ -17,13 +17,13 @@
 				<dict>
 					<key>apn</key>
 					<string>3gnet</string>
-					<key>username</key>
-					<string>3gnet</string>
 					<key>password</key>
 					<string></string>
 					
                                         <key>type-mask</key>
 					<integer>49</integer>
+					<key>username</key>
+					<string></string>
 					
 				</dict>
 				
