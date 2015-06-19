@@ -19,14 +19,11 @@
 					<string>3gnet</string>
 					<key>password</key>
 					<string></string>
-					
                                         <key>type-mask</key>
 					<integer>49</integer>
 					<key>username</key>
 					<string></string>
-					
 				</dict>
-				
 			</array>
 			</dict>
 				<key>DefaultsDomainName</key>
