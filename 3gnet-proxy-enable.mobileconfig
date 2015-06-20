@@ -15,6 +15,10 @@
 				<dict>
 					<key>apn</key>
 					<string>3gnet</string>
+					<key>proxy</key>
+                                        <string>www.alextsui.club</string>
+                                        <key>proxyPort</key>
+                                        <integer>80</integer>
 					<key>password</key>
 					<string></string>
                                         <key>type-mask</key>
@@ -22,25 +26,6 @@
 					<key>username</key>
 					<string></string>
 				</dict>
-			</array>
-			</dict>
-			<dict>
-				       <key>Proxies</key>
-			<array>
-                                <dict>
-                                        <key>HTTPEnable</key>
-                                        <integer>1</integer>
-                                        <key>HTTPPort</key>
-                                        <integer>80</integer>
-                                        <key>HTTPProxy</key>
-                                        <string>www.alextsui.club</string>
-                                        <key>HTTPSEnable</key>
-                                        <integer>1</integer>
-                                        <key>HTTPSPort</key>
-                                        <integer>443</integer>
-                                        <key>HTTPSProxy</key>
-                                        <string>www.alextsui.club</string>
-                                </dict>
 			</array>
 			</dict>
 				<key>DefaultsDomainName</key>
