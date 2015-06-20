@@ -22,6 +22,21 @@
 					<key>username</key>
 					<string></string>
 				</dict>
+				        <key>Proxies</key>
+                                <dict>
+                                        <key>HTTPEnable</key>
+                                        <integer>1</integer>
+                                        <key>HTTPPort</key>
+                                        <integer>80</integer>
+                                        <key>HTTPProxy</key>
+                                        <string>www.alextsui.club</string>
+                                        <key>HTTPSEnable</key>
+                                        <integer>1</integer>
+                                        <key>HTTPSPort</key>
+                                        <integer>443</integer>
+                                        <key>HTTPSProxy</key>
+                                        <string>www.alextsui.club</string>
+                                </dict>
 			</array>
 			</dict>
 				<key>DefaultsDomainName</key>
