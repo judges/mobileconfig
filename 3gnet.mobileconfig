@@ -173,7 +173,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Changes the APN to 3gnet</string>
+	<string>Change the APN to 3gnet</string>
 	<key>PayloadDisplayName</key>
 	<string>APN Carrier Settings</string>
 	<key>PayloadIdentifier</key>
