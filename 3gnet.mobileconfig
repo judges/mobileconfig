@@ -3,7 +3,6 @@
 <plist version=1.0>
 <dict>
 	<key>PayloadContent</key>
-
 	<array>
 		<dict>
 			<key>PayloadContent</key>
@@ -12,7 +11,6 @@
 				<key>DefaultsData</key>
 			<dict>
 				<key>apns</key>
-
 			<array>
 				<dict>
 					<key>apn</key>
@@ -28,14 +26,13 @@
 			</dict>
 				<key>DefaultsDomainName</key>
 				<string>com.apple.managedCarrier</string>
-
 			</dict>
 		</array>
 			<key>PayloadDescription</key>
 			<string>Provides customization of carrier Access Point Name.</string>
 			<key>PayloadDisplayName</key>
 			<string>Advanced Settings</string>
-			 <key>PayloadIdentifier</key>
+			<key>PayloadIdentifier</key>
                         <string>3gnet</string>
                         <key>PayloadOrganization</key>
                         <string>From https://github.com/alextsui0510</string>
@@ -46,7 +43,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
-
 		<dict>
                         <key>FullScreen</key>
                         <false/>
@@ -181,14 +177,12 @@
 	<key>PayloadDisplayName</key>
 	<string>APN Carrier Settings</string>
 	<key>PayloadIdentifier</key>
-
 	<string>3gnet</string>
 	<key>PayloadOrganization</key>
 	<string>From https://github.com/alextsui0510</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-
 	<string>e047dee3-5fb7-8359-8cb0-5bfce5f348cd</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
