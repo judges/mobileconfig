@@ -22,7 +22,11 @@
 					<key>username</key>
 					<string></string>
 				</dict>
-				        <key>Proxies</key>
+			</array>
+			</dict>
+			<dict>
+				       <key>Proxies</key>
+			<array>
                                 <dict>
                                         <key>HTTPEnable</key>
                                         <integer>1</integer>
