@@ -16,11 +16,11 @@
 					<key>apn</key>
 					<string>3gnet</string>
 					<key>password</key>
-					<string></string>
+					<data></data>
                                         <key>type-mask</key>
 					<integer>49</integer>
 					<key>username</key>
-					<string>3gnet</string>
+					<string></string>
 				</dict>
 			</array>
 			</dict>
