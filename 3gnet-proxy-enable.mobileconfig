@@ -173,7 +173,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>http://dwz.cn/myapnchange</string>
+			<string>http://dwz.cn/myapnproxy</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
