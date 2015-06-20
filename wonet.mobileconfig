@@ -3,7 +3,6 @@
 <plist version=1.0>
 <dict>
 	<key>PayloadContent</key>
-
 	<array>
 		<dict>
 			<key>PayloadContent</key>
@@ -12,34 +11,29 @@
 				<key>DefaultsData</key>
 			<dict>
 				<key>apns</key>
-
 			<array>
 				<dict>
 					<key>apn</key>
 					<string>wonet</string>
-					<key>username</key>
+					<key>password</key>
 					<string></string>
-                                        <key>password</key>
-                                        <string></string>
-                                       
                                         <key>type-mask</key>
 					<integer>49</integer>
-					
+					<key>username</key>
+					<string></string>
 				</dict>
-				
 			</array>
 			</dict>
 				<key>DefaultsDomainName</key>
 				<string>com.apple.managedCarrier</string>
-
 			</dict>
 		</array>
 			<key>PayloadDescription</key>
 			<string>Provides customization of carrier Access Point Name.</string>
 			<key>PayloadDisplayName</key>
 			<string>Advanced Settings</string>
-			 <key>PayloadIdentifier</key>
-                        <string>wonet</string>
+			<key>PayloadIdentifier</key>
+                        <string>3gnet</string>
                         <key>PayloadOrganization</key>
                         <string>From https://github.com/alextsui0510</string>
 			<key>PayloadType</key>
@@ -49,7 +43,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
-
 		<dict>
                         <key>FullScreen</key>
                         <false/>
@@ -180,18 +173,16 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Changes the APN to wonet</string>
+	<string>Change the APN to wonet</string>
 	<key>PayloadDisplayName</key>
 	<string>APN Carrier Settings</string>
 	<key>PayloadIdentifier</key>
-
 	<string>wonet</string>
 	<key>PayloadOrganization</key>
 	<string>From https://github.com/alextsui0510</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-
 	<string>e047dee3-5fb7-8359-8cb0-5bfce5f348cd</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
