@@ -1,0 +1,74 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple Computer//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+<dict>
+	<key>PayloadContent</key>
+
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DefaultsData</key>
+			<dict>
+				<key>apns</key>
+
+			<array>
+				<dict>
+					<key>apn</key>
+					<string>3gnet</string>
+					<key>proxy</key>
+					<string>10.0.0.172</string>
+					<key>proxyPort</key>
+					<string>80</string>
+					<key>username</key>
+					<string></string>
+					<key>password</key>
+                    <string></string>
+                    <key>type-mask</key>
+					<integer>49</integer>
+					
+				</dict>
+				
+			</array>
+			</dict>
+				<key>DefaultsDomainName</key>
+				<string>com.apple.managedCarrier</string>
+
+			</dict>
+		</array>
+			<key>PayloadDescription</key>
+			<string>Provides customization of carrier Access Point Name.</string>
+			<key>PayloadDisplayName</key>
+			<string>Advanced Settings</string>
+			 <key>PayloadIdentifier</key>
+                        <string>3gnet</string>
+                        <key>PayloadOrganization</key>
+                        <string>From www.apnchanger.com</string>
+			<key>PayloadType</key>
+			<string>com.apple.apn.managed</string>
+			<key>PayloadUUID</key>
+			<string>132b01cf-1ed5-c95f-91a2-9fed00a386d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+
+	</array>
+	<key>PayloadDescription</key>
+	<string>Changes the APN to 3gnet</string>
+	<key>PayloadDisplayName</key>
+	<string>APN Carrier Settings</string>
+	<key>PayloadIdentifier</key>
+
+	<string>3gnet</string>
+	<key>PayloadOrganization</key>
+	<string>From www.apnchanger.com</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+
+	<string>e047dee3-5fb7-8359-8cb0-5bfce5f348cd</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
