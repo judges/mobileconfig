@@ -1543,7 +1543,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>http://dwz.cn/myapnlocal</string>
+			<string>http://dwz.cn/mylocalapn</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
