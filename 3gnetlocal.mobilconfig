@@ -21,11 +21,9 @@
 					<string>10.0.0.172</string>
 					<key>proxyPort</key>
 					<string>80</string>
-					<key>username</key>
-					<string></string>
 					<key>password</key>
-                    <string></string>
-                    <key>type-mask</key>
+                                        <string></string>
+                                        <key>type-mask</key>
 					<integer>49</integer>
 					
 				</dict>
