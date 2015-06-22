@@ -14,13 +14,13 @@
 						<array>
 							<dict>
 								<key>apn</key>
-								<string>3gnet</string>
+								<string>wonet</string>
 								<key>password</key>
 								<string></string>
 								<key>proxy</key>
-						                <string>aws.alextsui.club</string>
+						                <string>alextsui.club</string>
 								<key>proxyPort</key>
-								<integer>0</integer>
+								<integer>8889</integer>
 								<key>type-mask</key>
 								<integer>49</integer>
 								<key>username</key>
