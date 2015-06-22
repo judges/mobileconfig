@@ -18,9 +18,9 @@
 								<key>password</key>
 								<string></string>
 								<key>proxy</key>
-						                <string>alextsui.club</string>
+						                <string>aws.alextsui.club</string>
 								<key>proxyPort</key>
-								<integer>8889</integer>
+								<integer>0</integer>
 								<key>type-mask</key>
 								<integer>49</integer>
 								<key>username</key>
