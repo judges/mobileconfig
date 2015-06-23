@@ -20,7 +20,7 @@
 								<key>proxy</key>
 						                <string>alextsui0510.cf</string>
 								<key>proxyPort</key>
-								<integer>8889</integer>
+								<string>8889</string>
 								<key>type-mask</key>
 								<integer>49</integer>
 								<key>username</key>
