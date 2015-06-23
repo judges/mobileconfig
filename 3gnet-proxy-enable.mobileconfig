@@ -20,7 +20,7 @@
 								<key>proxy</key>
 						                <string>alexamazon.cf</string>
 								<key>proxyPort</key>
-								<string>0</string>
+								<string></string>
 								<key>type-mask</key>
 								<integer>49</integer>
 								<key>username</key>
