@@ -4,24 +4,27 @@
 <dict>
 	<key>PayloadContent</key>
 	<array>
+<dict>
+	<key>PayloadContent</key>
+	<array>
 		<dict>
 			<key>DefaultsData</key>
 			<dict>
 				<key>apns</key>
 				<array>
 					<dict>
-								<key>apn</key>
-								<string>3gnet</string>
-								<key>password</key>
-								<string></string>
-								<key>proxy</key>
-						    <string>alexamazon.cf</string>
-								<key>proxyPort</key>
-								<integer>0</integer>
-								<key>type-mask</key>
-								<integer>49</integer>
-								<key>username</key>
-								<string></string>
+					<key>apn</key>
+					<string>3gnet</string>
+					<key>password</key>
+					<string></string>
+					<key>proxy</key>
+					<string>alexamazon.cf</string>
+					<key>proxyPort</key>
+					<integer>0</integer>
+					<key>type-mask</key>
+					<integer>49</integer>
+					<key>username</key>
+					<string></string>
 					</dict>
 				</array>
 			</dict>
@@ -43,5 +46,7 @@
 	<string>37002CA1-F8FF-41CD-85F2-CB89E6830ED7</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+</dict>
+</array>
 </dict>
 </plist>
