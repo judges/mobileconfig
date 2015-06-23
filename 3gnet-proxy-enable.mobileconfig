@@ -14,7 +14,7 @@
 						<array>
 							<dict>
 								<key>apn</key>
-								<string>wonet</string>
+								<string>3gnet</string>
 								<key>password</key>
 								<string></string>
 								<key>proxy</key>
