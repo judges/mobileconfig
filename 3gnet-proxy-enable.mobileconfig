@@ -18,7 +18,7 @@
 								<key>password</key>
 								<string></string>
 								<key>proxy</key>
-						                <string>aws.alextsui.club</string>
+						                <string>alexamazon.cf</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
 								<key>type-mask</key>
